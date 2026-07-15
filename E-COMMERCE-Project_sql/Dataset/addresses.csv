@@ -1,0 +1,1242 @@
+address_id,user_id,street_address,city,state,postal_code,country,is_default
+1,1,"321
+Chahal Circle",Mumbai,Maharashtra,400001,India,1
+2,1,"H.No. 013
+Tiwari Ganj",Kolkata,West Bengal,700001,India,0
+3,1,"38/63, Mall Chowk",Chandigarh,Chandigarh,160001,India,0
+4,2,"H.No. 42
+Nayar Ganj",Chennai,Tamil Nadu,600001,India,1
+5,3,"H.No. 559
+Bassi Road",Delhi,Delhi,110001,India,1
+6,3,"16/18
+Pathak Road",Delhi,Delhi,110001,India,0
+7,4,"34/131, Mall Marg",Delhi,Delhi,110001,India,1
+8,5,"H.No. 53, Bora Road",Chandigarh,Chandigarh,160001,India,1
+9,5,"32/76, Kanda Road",Chandigarh,Chandigarh,160001,India,0
+10,5,"H.No. 305
+Loyal Marg",Surat,Gujarat,395001,India,0
+11,6,"767
+Lanka Street",Mumbai,Maharashtra,400001,India,1
+12,6,"884, Sangha",Kolkata,West Bengal,700001,India,0
+13,7,"871, Choudhary Nagar",Jaipur,Rajasthan,302001,India,1
+14,7,"26/916, Sidhu Marg",Pune,Maharashtra,411001,India,0
+15,8,"84/514, Dugar Marg",Pune,Maharashtra,411001,India,1
+16,9,"28/14
+Issac Circle",Surat,Gujarat,395001,India,1
+17,9,"H.No. 28, Acharya Circle",Hyderabad,Telangana,500001,India,0
+18,10,"H.No. 543, Khosla Nagar",Mumbai,Maharashtra,400001,India,1
+19,10,"H.No. 718, Dave Street",Indore,Madhya Pradesh,452001,India,0
+20,10,"24/89
+Kakar Marg",Hyderabad,Telangana,500001,India,0
+21,11,"57/871
+Kar Ganj",Delhi,Delhi,110001,India,1
+22,12,"83/93, Bobal Nagar",Chandigarh,Chandigarh,160001,India,1
+23,13,"H.No. 518, Mallick Ganj",Surat,Gujarat,395001,India,1
+24,14,"99/737, Gupta Marg",Delhi,Delhi,110001,India,1
+25,15,"H.No. 66
+Bhagat Chowk",Patna,Bihar,800001,India,1
+26,15,"H.No. 651, Handa Ganj",Indore,Madhya Pradesh,452001,India,0
+27,15,"72/62, Shere Road",Indore,Madhya Pradesh,452001,India,0
+28,16,"10/80
+Khalsa Zila",Pune,Maharashtra,411001,India,1
+29,17,"36
+Gala Nagar",Jaipur,Rajasthan,302001,India,1
+30,17,"H.No. 647
+Sampath Road",Ahmedabad,Gujarat,380001,India,0
+31,18,"H.No. 30, Bhat",Bengaluru,Karnataka,560001,India,1
+32,18,"H.No. 097
+Wali Circle",Patna,Bihar,800001,India,0
+33,19,"191, Raval Ganj",Lucknow,Uttar Pradesh,226001,India,1
+34,20,"16/99, Mutti Circle",Patna,Bihar,800001,India,1
+35,21,"462
+Shankar Road",Bhopal,Madhya Pradesh,462001,India,1
+36,22,"99, Borah Zila",Hyderabad,Telangana,500001,India,1
+37,22,"42/51, Pingle Ganj",Lucknow,Uttar Pradesh,226001,India,0
+38,23,"49/80
+Mistry Circle",Bhopal,Madhya Pradesh,462001,India,1
+39,23,"411, Dugal Circle",Jaipur,Rajasthan,302001,India,0
+40,23,"H.No. 93
+Jani Path",Nagpur,Maharashtra,440001,India,0
+41,24,"H.No. 01
+Malhotra Marg",Chandigarh,Chandigarh,160001,India,1
+42,25,"427
+Sane Circle",Hyderabad,Telangana,500001,India,1
+43,25,"H.No. 128, Pingle Nagar",Lucknow,Uttar Pradesh,226001,India,0
+44,25,"20, Patla Road",Kochi,Kerala,682001,India,0
+45,26,"31/586, Dubey",Jaipur,Rajasthan,302001,India,1
+46,26,"260, Natarajan Street",Ahmedabad,Gujarat,380001,India,0
+47,27,"160
+Kapadia Chowk",Chandigarh,Chandigarh,160001,India,1
+48,28,"H.No. 33
+Hans Nagar",Patna,Bihar,800001,India,1
+49,29,"H.No. 458
+Yadav Marg",Indore,Madhya Pradesh,452001,India,1
+50,30,"H.No. 29, Barad Road",Kolkata,West Bengal,700001,India,1
+51,31,"56/981
+Gupta Marg",Nagpur,Maharashtra,440001,India,1
+52,32,"H.No. 883
+Sankar Path",Hyderabad,Telangana,500001,India,1
+53,33,"14/846
+Rau Path",Pune,Maharashtra,411001,India,1
+54,34,"62, Mitra",Indore,Madhya Pradesh,452001,India,1
+55,34,"04/43
+Nagy Marg",Chennai,Tamil Nadu,600001,India,0
+56,35,"38/721
+Varma Road",Delhi,Delhi,110001,India,1
+57,36,"43/320, Konda Nagar",Jaipur,Rajasthan,302001,India,1
+58,36,"17/69
+Rajagopalan Ganj",Patna,Bihar,800001,India,0
+59,37,"016, Goda Ganj",Lucknow,Uttar Pradesh,226001,India,1
+60,38,"31/72, Wali Chowk",Nagpur,Maharashtra,440001,India,1
+61,39,"72/77
+Kota Road",Chandigarh,Chandigarh,160001,India,1
+62,40,"34/714
+Magar Ganj",Mumbai,Maharashtra,400001,India,1
+63,41,"236, Kala Street",Patna,Bihar,800001,India,1
+64,41,"65, Shukla Circle",Mumbai,Maharashtra,400001,India,0
+65,42,"69, Rai Nagar",Kolkata,West Bengal,700001,India,1
+66,42,"H.No. 546
+Yohannan Marg",Bhopal,Madhya Pradesh,462001,India,0
+67,43,"H.No. 67, Ramachandran Nagar",Bhopal,Madhya Pradesh,462001,India,1
+68,43,"62/729
+Bala Circle",Lucknow,Uttar Pradesh,226001,India,0
+69,44,"62/720, Raghavan Road",Pune,Maharashtra,411001,India,1
+70,45,"H.No. 56
+Sama Road",Lucknow,Uttar Pradesh,226001,India,1
+71,46,"H.No. 805
+Biswas Ganj",Kolkata,West Bengal,700001,India,1
+72,47,"092, Date Ganj",Ahmedabad,Gujarat,380001,India,1
+73,48,"45, Contractor Street",Indore,Madhya Pradesh,452001,India,1
+74,49,"04/96, Issac Marg",Pune,Maharashtra,411001,India,1
+75,49,"31/49, Barman Zila",Kochi,Kerala,682001,India,0
+76,50,"51/850
+Suri Marg",Chandigarh,Chandigarh,160001,India,1
+77,51,"72/628
+Yohannan Road",Chennai,Tamil Nadu,600001,India,1
+78,52,"94/531
+Seshadri Road",Bengaluru,Karnataka,560001,India,1
+79,53,"H.No. 07
+Gopal Path",Patna,Bihar,800001,India,1
+80,54,"H.No. 54
+Majumdar",Chennai,Tamil Nadu,600001,India,1
+81,55,"H.No. 367, Khosla Circle",Jaipur,Rajasthan,302001,India,1
+82,55,"77/014
+Ravel Ganj",Kolkata,West Bengal,700001,India,0
+83,56,"88
+Sandal Path",Surat,Gujarat,395001,India,1
+84,57,"H.No. 44
+Dara Ganj",Noida,Uttar Pradesh,201301,India,1
+85,57,"H.No. 18, Handa Street",Ahmedabad,Gujarat,380001,India,0
+86,58,"98/941
+Minhas Ganj",Chandigarh,Chandigarh,160001,India,1
+87,59,"H.No. 08, Mahal Street",Mumbai,Maharashtra,400001,India,1
+88,60,"27/109
+Singh Road",Bengaluru,Karnataka,560001,India,1
+89,60,"52
+Krishnan Nagar",Bhopal,Madhya Pradesh,462001,India,0
+90,61,"71, Bera",Indore,Madhya Pradesh,452001,India,1
+91,62,"H.No. 318
+Kara Marg",Ahmedabad,Gujarat,380001,India,1
+92,62,"74
+Sanghvi",Indore,Madhya Pradesh,452001,India,0
+93,63,"341, Khatri Street",Indore,Madhya Pradesh,452001,India,1
+94,64,"H.No. 679, Manne Chowk",Patna,Bihar,800001,India,1
+95,65,"47/134
+Hora",Lucknow,Uttar Pradesh,226001,India,1
+96,66,"24/210, Mohanty Street",Bhopal,Madhya Pradesh,462001,India,1
+97,66,"17
+Rau Road",Delhi,Delhi,110001,India,0
+98,67,"19
+Sankaran Nagar",Bhopal,Madhya Pradesh,462001,India,1
+99,68,"H.No. 399, Luthra Nagar",Lucknow,Uttar Pradesh,226001,India,1
+100,69,"74/29
+Swamy Marg",Chandigarh,Chandigarh,160001,India,1
+101,69,"56, Nagi Path",Delhi,Delhi,110001,India,0
+102,70,"74
+Bansal Marg",Hyderabad,Telangana,500001,India,1
+103,71,"H.No. 51
+Varkey Marg",Noida,Uttar Pradesh,201301,India,1
+104,71,"87/603, Pathak Circle",Ahmedabad,Gujarat,380001,India,0
+105,71,"70/348
+Mani Street",Chandigarh,Chandigarh,160001,India,0
+106,72,"H.No. 932, Atwal Road",Surat,Gujarat,395001,India,1
+107,73,"H.No. 712, Manne Chowk",Kolkata,West Bengal,700001,India,1
+108,74,"73
+Dhillon Chowk",Hyderabad,Telangana,500001,India,1
+109,74,"982
+Majumdar Zila",Ahmedabad,Gujarat,380001,India,0
+110,74,"H.No. 84
+Mandal Nagar",Delhi,Delhi,110001,India,0
+111,75,"87, Natarajan Path",Bengaluru,Karnataka,560001,India,1
+112,75,"53
+Rajagopal Ganj",Bengaluru,Karnataka,560001,India,0
+113,76,"H.No. 76, Doshi Marg",Mumbai,Maharashtra,400001,India,1
+114,76,"H.No. 289
+Chaudhry Path",Jaipur,Rajasthan,302001,India,0
+115,77,"H.No. 262
+Singh Zila",Delhi,Delhi,110001,India,1
+116,77,"H.No. 96
+Narasimhan Zila",Bengaluru,Karnataka,560001,India,0
+117,78,"09/13
+Karan Road",Delhi,Delhi,110001,India,1
+118,79,"17/240, Nair Nagar",Hyderabad,Telangana,500001,India,1
+119,80,"H.No. 62
+Wali Ganj",Chennai,Tamil Nadu,600001,India,1
+120,80,"22/21
+Raja",Chennai,Tamil Nadu,600001,India,0
+121,81,"747, Andra Road",Mumbai,Maharashtra,400001,India,1
+122,82,"H.No. 759, Samra Road",Nagpur,Maharashtra,440001,India,1
+123,83,"671
+Raj Ganj",Patna,Bihar,800001,India,1
+124,84,"H.No. 640
+Bawa",Patna,Bihar,800001,India,1
+125,84,"H.No. 39
+Kanda Path",Kolkata,West Bengal,700001,India,0
+126,84,"42/10, Sastry Road",Bhopal,Madhya Pradesh,462001,India,0
+127,85,"H.No. 456, Iyer Street",Kochi,Kerala,682001,India,1
+128,85,"58/84, Kurian Street",Surat,Gujarat,395001,India,0
+129,86,"H.No. 712
+Ranganathan Ganj",Noida,Uttar Pradesh,201301,India,1
+130,86,"H.No. 604
+Dasgupta Circle",Indore,Madhya Pradesh,452001,India,0
+131,87,"65/13
+Bakshi Chowk",Delhi,Delhi,110001,India,1
+132,88,"74/612, Barad Nagar",Kochi,Kerala,682001,India,1
+133,89,"H.No. 382, Setty Marg",Jaipur,Rajasthan,302001,India,1
+134,90,"26/17
+Reddy",Indore,Madhya Pradesh,452001,India,1
+135,91,"773
+Chaudhary Path",Jaipur,Rajasthan,302001,India,1
+136,91,"50/64
+Das Ganj",Nagpur,Maharashtra,440001,India,0
+137,92,"90/053, Jha Street",Jaipur,Rajasthan,302001,India,1
+138,93,"529, Malhotra Nagar",Hyderabad,Telangana,500001,India,1
+139,94,"102
+Parmar Nagar",Indore,Madhya Pradesh,452001,India,1
+140,94,"50/24, Date Nagar",Pune,Maharashtra,411001,India,0
+141,95,"17/758, Chopra",Chandigarh,Chandigarh,160001,India,1
+142,95,"39/08
+Shanker Road",Hyderabad,Telangana,500001,India,0
+143,96,"61
+Sawhney Chowk",Chandigarh,Chandigarh,160001,India,1
+144,96,"H.No. 592, Date Zila",Hyderabad,Telangana,500001,India,0
+145,97,"84/78
+Sani",Hyderabad,Telangana,500001,India,1
+146,97,"18/367, Sachdev Ganj",Surat,Gujarat,395001,India,0
+147,98,"15
+Munshi Marg",Ahmedabad,Gujarat,380001,India,1
+148,98,"H.No. 27
+Chand Zila",Noida,Uttar Pradesh,201301,India,0
+149,98,"H.No. 615, Bhasin Street",Patna,Bihar,800001,India,0
+150,99,"H.No. 60
+Muni Road",Pune,Maharashtra,411001,India,1
+151,99,"H.No. 983
+Subramaniam Street",Delhi,Delhi,110001,India,0
+152,100,"51/49
+Sanghvi Ganj",Bengaluru,Karnataka,560001,India,1
+153,101,"445, Ahuja Path",Bhopal,Madhya Pradesh,462001,India,1
+154,101,"961, Balasubramanian Street",Ahmedabad,Gujarat,380001,India,0
+155,102,"67, Dugar Path",Pune,Maharashtra,411001,India,1
+156,102,"H.No. 59
+Chad",Lucknow,Uttar Pradesh,226001,India,0
+157,103,"01/47, Sunder Marg",Patna,Bihar,800001,India,1
+158,104,"815
+Choudhry Marg",Noida,Uttar Pradesh,201301,India,1
+159,105,"H.No. 369
+Amble Nagar",Bhopal,Madhya Pradesh,462001,India,1
+160,105,"H.No. 32, Mann Road",Jaipur,Rajasthan,302001,India,0
+161,105,"H.No. 076
+Dayal Street",Hyderabad,Telangana,500001,India,0
+162,106,"85/16, Sarin Nagar",Nagpur,Maharashtra,440001,India,1
+163,107,"H.No. 96, Ravel",Noida,Uttar Pradesh,201301,India,1
+164,107,"H.No. 16
+Nair Nagar",Nagpur,Maharashtra,440001,India,0
+165,108,"H.No. 613
+Rattan Marg",Mumbai,Maharashtra,400001,India,1
+166,108,"45, Nath Ganj",Lucknow,Uttar Pradesh,226001,India,0
+167,108,"H.No. 818, Hari Circle",Delhi,Delhi,110001,India,0
+168,109,"124, Ghose Ganj",Ahmedabad,Gujarat,380001,India,1
+169,110,"77/997, Naidu",Patna,Bihar,800001,India,1
+170,111,"H.No. 774
+Bhalla Road",Ahmedabad,Gujarat,380001,India,1
+171,112,"H.No. 77, Bhandari Nagar",Bengaluru,Karnataka,560001,India,1
+172,113,"19/986, Barman Chowk",Bhopal,Madhya Pradesh,462001,India,1
+173,113,"35/97
+Dora Circle",Hyderabad,Telangana,500001,India,0
+174,114,"H.No. 18, Baral Street",Bhopal,Madhya Pradesh,462001,India,1
+175,115,"89/25
+Mandal Path",Pune,Maharashtra,411001,India,1
+176,115,"59
+Natt Nagar",Nagpur,Maharashtra,440001,India,0
+177,116,"64/49, Nath Street",Lucknow,Uttar Pradesh,226001,India,1
+178,117,"H.No. 62
+Chad",Mumbai,Maharashtra,400001,India,1
+179,117,"65/28
+Sampath Zila",Patna,Bihar,800001,India,0
+180,117,"H.No. 542
+Om Ganj",Surat,Gujarat,395001,India,0
+181,118,"214, Tripathi Zila",Noida,Uttar Pradesh,201301,India,1
+182,118,"59/296, Gaba Street",Pune,Maharashtra,411001,India,0
+183,119,"H.No. 653
+Mane Chowk",Pune,Maharashtra,411001,India,1
+184,119,"834
+Hari Chowk",Bengaluru,Karnataka,560001,India,0
+185,119,"97/746
+Wable Circle",Hyderabad,Telangana,500001,India,0
+186,120,"24/07, Chauhan Path",Jaipur,Rajasthan,302001,India,1
+187,121,"H.No. 247
+Din Circle",Bengaluru,Karnataka,560001,India,1
+188,121,"H.No. 375
+Sachdeva Nagar",Chandigarh,Chandigarh,160001,India,0
+189,122,"615
+Bala Ganj",Mumbai,Maharashtra,400001,India,1
+190,123,"204
+Dewan Chowk",Chennai,Tamil Nadu,600001,India,1
+191,123,"90
+Bahl Zila",Indore,Madhya Pradesh,452001,India,0
+192,124,"98/61, Khanna Road",Kolkata,West Bengal,700001,India,1
+193,125,"697, Choudhry Zila",Lucknow,Uttar Pradesh,226001,India,1
+194,125,"80/89
+Dhawan Ganj",Mumbai,Maharashtra,400001,India,0
+195,125,"09
+Khosla Path",Mumbai,Maharashtra,400001,India,0
+196,126,"51/88, Tripathi Circle",Patna,Bihar,800001,India,1
+197,127,"H.No. 654
+Parikh Nagar",Nagpur,Maharashtra,440001,India,1
+198,128,"19/520, Nigam Path",Indore,Madhya Pradesh,452001,India,1
+199,128,"77/221, Bansal Chowk",Bhopal,Madhya Pradesh,462001,India,0
+200,129,"054, Rao Circle",Chandigarh,Chandigarh,160001,India,1
+201,130,"34/505, Dash Road",Mumbai,Maharashtra,400001,India,1
+202,131,"76/527
+Pillai Chowk",Patna,Bihar,800001,India,1
+203,131,"H.No. 616
+Gole",Noida,Uttar Pradesh,201301,India,0
+204,132,"H.No. 544, Sandhu Chowk",Pune,Maharashtra,411001,India,1
+205,132,"75/705, Saran",Kolkata,West Bengal,700001,India,0
+206,133,"65/820, Sarma Street",Bhopal,Madhya Pradesh,462001,India,1
+207,134,"556, Bali",Kolkata,West Bengal,700001,India,1
+208,134,"75/571, Devan",Delhi,Delhi,110001,India,0
+209,135,"43/102
+Vasa Chowk",Noida,Uttar Pradesh,201301,India,1
+210,135,"14/47
+Mangal Ganj",Ahmedabad,Gujarat,380001,India,0
+211,136,"172, Chahal Chowk",Jaipur,Rajasthan,302001,India,1
+212,136,"51/884
+Dugar Road",Surat,Gujarat,395001,India,0
+213,137,"H.No. 323, Bal Chowk",Indore,Madhya Pradesh,452001,India,1
+214,138,"29/11
+Rao Road",Lucknow,Uttar Pradesh,226001,India,1
+215,139,"91
+Nadig Street",Patna,Bihar,800001,India,1
+216,139,"78, Dave Path",Chandigarh,Chandigarh,160001,India,0
+217,139,"680, Vasa Zila",Pune,Maharashtra,411001,India,0
+218,140,"535, Mander Circle",Patna,Bihar,800001,India,1
+219,140,"H.No. 38, Dass Road",Chennai,Tamil Nadu,600001,India,0
+220,141,"29/92, Nazareth Street",Kochi,Kerala,682001,India,1
+221,142,"H.No. 943, Saha",Bengaluru,Karnataka,560001,India,1
+222,143,"47/364
+Bora Chowk",Mumbai,Maharashtra,400001,India,1
+223,144,"77
+Oak Ganj",Mumbai,Maharashtra,400001,India,1
+224,145,"56/258
+Cherian Circle",Pune,Maharashtra,411001,India,1
+225,145,"714
+Kota Chowk",Bengaluru,Karnataka,560001,India,0
+226,146,"H.No. 69, Kothari Marg",Chandigarh,Chandigarh,160001,India,1
+227,146,"H.No. 95, Dutta Ganj",Nagpur,Maharashtra,440001,India,0
+228,146,"77/47
+Chana Nagar",Surat,Gujarat,395001,India,0
+229,147,"395
+Bedi Nagar",Ahmedabad,Gujarat,380001,India,1
+230,147,"97
+Yadav Road",Mumbai,Maharashtra,400001,India,0
+231,148,"456
+Bath Path",Delhi,Delhi,110001,India,1
+232,148,"H.No. 983
+Mani Path",Jaipur,Rajasthan,302001,India,0
+233,149,"49/91
+Chatterjee Street",Delhi,Delhi,110001,India,1
+234,149,"H.No. 58
+Dhawan Path",Bhopal,Madhya Pradesh,462001,India,0
+235,150,"00/02
+Som Path",Indore,Madhya Pradesh,452001,India,1
+236,151,"82/59, Gaba Path",Mumbai,Maharashtra,400001,India,1
+237,152,"88/79
+Soman Road",Surat,Gujarat,395001,India,1
+238,153,"16/940
+Som",Delhi,Delhi,110001,India,1
+239,154,"72/89, Divan Marg",Bengaluru,Karnataka,560001,India,1
+240,155,"075, Doshi Marg",Chandigarh,Chandigarh,160001,India,1
+241,155,"36/897
+Devi Nagar",Pune,Maharashtra,411001,India,0
+242,156,"78/652
+Walia Chowk",Hyderabad,Telangana,500001,India,1
+243,156,"54/97
+Koshy Ganj",Kolkata,West Bengal,700001,India,0
+244,156,"43/44
+Suresh Ganj",Patna,Bihar,800001,India,0
+245,157,"44/19
+Raghavan Circle",Bengaluru,Karnataka,560001,India,1
+246,157,"H.No. 24
+Mani Nagar",Indore,Madhya Pradesh,452001,India,0
+247,158,"47/338
+Magar Road",Kochi,Kerala,682001,India,1
+248,158,"H.No. 993, Bedi Ganj",Bengaluru,Karnataka,560001,India,0
+249,158,"30/165, Chaudhry Chowk",Kolkata,West Bengal,700001,India,0
+250,159,"77, Mani Ganj",Chandigarh,Chandigarh,160001,India,1
+251,159,"H.No. 01
+Kata",Surat,Gujarat,395001,India,0
+252,160,"067
+Mann Street",Patna,Bihar,800001,India,1
+253,161,"91/54
+Viswanathan Chowk",Lucknow,Uttar Pradesh,226001,India,1
+254,162,"H.No. 31
+Gaba Path",Kochi,Kerala,682001,India,1
+255,163,"H.No. 549, Gill Ganj",Lucknow,Uttar Pradesh,226001,India,1
+256,163,"85
+Rattan Zila",Hyderabad,Telangana,500001,India,0
+257,164,"53, Lal Nagar",Chandigarh,Chandigarh,160001,India,1
+258,165,"H.No. 54
+Apte",Ahmedabad,Gujarat,380001,India,1
+259,165,"53/017
+Dutta Road",Indore,Madhya Pradesh,452001,India,0
+260,165,"84/145
+Kant",Bhopal,Madhya Pradesh,462001,India,0
+261,166,"795
+Sinha Marg",Mumbai,Maharashtra,400001,India,1
+262,167,"78/51, Choudhury",Surat,Gujarat,395001,India,1
+263,168,"82/25, Sathe Circle",Noida,Uttar Pradesh,201301,India,1
+264,169,"H.No. 870
+Deo Chowk",Jaipur,Rajasthan,302001,India,1
+265,170,"08/74
+Randhawa Nagar",Patna,Bihar,800001,India,1
+266,171,"10/65, Bhasin Zila",Chennai,Tamil Nadu,600001,India,1
+267,171,"04, Gole Marg",Bengaluru,Karnataka,560001,India,0
+268,172,"76
+Buch Marg",Chennai,Tamil Nadu,600001,India,1
+269,173,"868, Kapoor Street",Hyderabad,Telangana,500001,India,1
+270,174,"86
+Raghavan Circle",Delhi,Delhi,110001,India,1
+271,175,"H.No. 24
+Chowdhury Ganj",Pune,Maharashtra,411001,India,1
+272,175,"69/033, Chaudhuri Zila",Delhi,Delhi,110001,India,0
+273,176,"067, Zacharia Ganj",Kolkata,West Bengal,700001,India,1
+274,176,"H.No. 284, Nagar Ganj",Nagpur,Maharashtra,440001,India,0
+275,177,"836
+Maharaj Road",Bengaluru,Karnataka,560001,India,1
+276,177,"92/68, Batta Chowk",Noida,Uttar Pradesh,201301,India,0
+277,177,"68/566
+Mital Street",Mumbai,Maharashtra,400001,India,0
+278,178,"342
+Bhardwaj Chowk",Delhi,Delhi,110001,India,1
+279,178,"88
+Rama Street",Mumbai,Maharashtra,400001,India,0
+280,179,"H.No. 17, Chanda Path",Kochi,Kerala,682001,India,1
+281,180,"99
+Bora Nagar",Jaipur,Rajasthan,302001,India,1
+282,181,"540
+Gupta Ganj",Mumbai,Maharashtra,400001,India,1
+283,181,"73/936, Nagy Ganj",Noida,Uttar Pradesh,201301,India,0
+284,182,"54/45
+Tank Circle",Patna,Bihar,800001,India,1
+285,183,"H.No. 35
+Sachdev Path",Surat,Gujarat,395001,India,1
+286,184,"H.No. 489, Sahni",Mumbai,Maharashtra,400001,India,1
+287,185,"H.No. 36, Korpal",Surat,Gujarat,395001,India,1
+288,185,"54/77
+Ganguly Chowk",Delhi,Delhi,110001,India,0
+289,186,"87/280, Bandi Circle",Chandigarh,Chandigarh,160001,India,1
+290,187,"23, Dora Zila",Delhi,Delhi,110001,India,1
+291,188,"H.No. 09
+Subramanian",Mumbai,Maharashtra,400001,India,1
+292,188,"H.No. 088
+Arora Marg",Patna,Bihar,800001,India,0
+293,188,"48/40, Sani Circle",Chandigarh,Chandigarh,160001,India,0
+294,189,"23/39, Krishnan Circle",Surat,Gujarat,395001,India,1
+295,189,"H.No. 61
+Ravi Path",Kochi,Kerala,682001,India,0
+296,190,"H.No. 10, Ravi Zila",Chennai,Tamil Nadu,600001,India,1
+297,191,"H.No. 021
+Saraf Chowk",Nagpur,Maharashtra,440001,India,1
+298,192,"397, Batra Road",Pune,Maharashtra,411001,India,1
+299,192,"48/902, Babu Path",Patna,Bihar,800001,India,0
+300,193,"H.No. 429
+Ramachandran Ganj",Hyderabad,Telangana,500001,India,1
+301,194,"18/501, Kata Marg",Lucknow,Uttar Pradesh,226001,India,1
+302,194,"H.No. 99, Ranganathan",Delhi,Delhi,110001,India,0
+303,195,"73
+Prashad Path",Kochi,Kerala,682001,India,1
+304,195,"961
+Merchant",Indore,Madhya Pradesh,452001,India,0
+305,196,"H.No. 26, Ramachandran Street",Indore,Madhya Pradesh,452001,India,1
+306,197,"H.No. 047, Madan Path",Noida,Uttar Pradesh,201301,India,1
+307,198,"678, Vala Circle",Bhopal,Madhya Pradesh,462001,India,1
+308,198,"H.No. 015
+Chander Circle",Chennai,Tamil Nadu,600001,India,0
+309,199,"H.No. 66, Kibe Zila",Pune,Maharashtra,411001,India,1
+310,200,"444, Dhingra Chowk",Delhi,Delhi,110001,India,1
+311,201,"H.No. 64
+Bose Chowk",Chennai,Tamil Nadu,600001,India,1
+312,202,"79/937, Deshmukh Zila",Lucknow,Uttar Pradesh,226001,India,1
+313,203,"H.No. 96
+Sarraf Path",Bhopal,Madhya Pradesh,462001,India,1
+314,204,"H.No. 59, Srinivas Ganj",Pune,Maharashtra,411001,India,1
+315,205,"H.No. 47
+Kibe",Pune,Maharashtra,411001,India,1
+316,206,"51
+Iyengar",Patna,Bihar,800001,India,1
+317,207,"37/416
+Dewan Chowk",Chennai,Tamil Nadu,600001,India,1
+318,207,"426
+Borah Marg",Jaipur,Rajasthan,302001,India,0
+319,207,"79/68
+Sahota Circle",Chandigarh,Chandigarh,160001,India,0
+320,208,"H.No. 352, Basu",Mumbai,Maharashtra,400001,India,1
+321,208,"H.No. 61
+Chaudhari Nagar",Ahmedabad,Gujarat,380001,India,0
+322,209,"56, Tella Chowk",Pune,Maharashtra,411001,India,1
+323,210,"14, Chada Marg",Ahmedabad,Gujarat,380001,India,1
+324,210,"25/457, Verma Ganj",Mumbai,Maharashtra,400001,India,0
+325,211,"H.No. 775
+Mital Zila",Delhi,Delhi,110001,India,1
+326,212,"H.No. 12, Varty Ganj",Indore,Madhya Pradesh,452001,India,1
+327,213,"67/36
+Grewal Street",Chandigarh,Chandigarh,160001,India,1
+328,214,"93/796, Agrawal Marg",Bengaluru,Karnataka,560001,India,1
+329,214,"419, Yadav Zila",Lucknow,Uttar Pradesh,226001,India,0
+330,215,"714
+Wable Chowk",Delhi,Delhi,110001,India,1
+331,215,"69/69
+Pall Zila",Kolkata,West Bengal,700001,India,0
+332,216,"49/912, Dalal Path",Patna,Bihar,800001,India,1
+333,216,"H.No. 12, Dhaliwal Path",Jaipur,Rajasthan,302001,India,0
+334,217,"29/66
+Sur Street",Noida,Uttar Pradesh,201301,India,1
+335,217,"27/42, Murty Street",Lucknow,Uttar Pradesh,226001,India,0
+336,218,"H.No. 723
+Tiwari Marg",Kolkata,West Bengal,700001,India,1
+337,218,"76
+Suresh Chowk",Jaipur,Rajasthan,302001,India,0
+338,218,"H.No. 903, Bali Road",Indore,Madhya Pradesh,452001,India,0
+339,219,"797
+Vaidya Circle",Noida,Uttar Pradesh,201301,India,1
+340,220,"58/07
+Kamdar Circle",Mumbai,Maharashtra,400001,India,1
+341,221,"H.No. 07, Pall Road",Jaipur,Rajasthan,302001,India,1
+342,221,"13, Panchal Ganj",Patna,Bihar,800001,India,0
+343,222,"309, Walia Path",Lucknow,Uttar Pradesh,226001,India,1
+344,223,"H.No. 44, Loke",Delhi,Delhi,110001,India,1
+345,224,"04, Deo Street",Hyderabad,Telangana,500001,India,1
+346,224,"536, Dhar Chowk",Kochi,Kerala,682001,India,0
+347,225,"11
+Varma Marg",Kochi,Kerala,682001,India,1
+348,226,"59
+Chander Nagar",Bhopal,Madhya Pradesh,462001,India,1
+349,227,"63/63, Loyal Chowk",Chennai,Tamil Nadu,600001,India,1
+350,228,"92/97
+Bava Path",Pune,Maharashtra,411001,India,1
+351,228,"H.No. 701, Sastry Street",Chennai,Tamil Nadu,600001,India,0
+352,228,"H.No. 632
+Dutt Road",Noida,Uttar Pradesh,201301,India,0
+353,229,"H.No. 15
+Ben Street",Chennai,Tamil Nadu,600001,India,1
+354,229,"43/611
+Kala Nagar",Kochi,Kerala,682001,India,0
+355,230,"38/70, Oza Nagar",Kolkata,West Bengal,700001,India,1
+356,230,"27, Karnik Zila",Lucknow,Uttar Pradesh,226001,India,0
+357,230,"H.No. 115
+Mistry Path",Delhi,Delhi,110001,India,0
+358,231,"21/890, Gala",Bengaluru,Karnataka,560001,India,1
+359,231,"H.No. 32
+Savant Marg",Kolkata,West Bengal,700001,India,0
+360,231,"H.No. 121, Rajagopalan",Lucknow,Uttar Pradesh,226001,India,0
+361,232,"341
+Mane Ganj",Kochi,Kerala,682001,India,1
+362,233,"98/36, Bhagat Road",Ahmedabad,Gujarat,380001,India,1
+363,233,"61, Tata Ganj",Chennai,Tamil Nadu,600001,India,0
+364,234,"H.No. 52, Salvi Marg",Chennai,Tamil Nadu,600001,India,1
+365,235,"H.No. 091
+Lala Nagar",Ahmedabad,Gujarat,380001,India,1
+366,235,"H.No. 068, Thaker Road",Hyderabad,Telangana,500001,India,0
+367,236,"H.No. 889
+Mall Street",Jaipur,Rajasthan,302001,India,1
+368,237,"32/85, Bhatti Marg",Nagpur,Maharashtra,440001,India,1
+369,237,"63/031
+D’Alia Marg",Chennai,Tamil Nadu,600001,India,0
+370,237,"90/42
+Arora Zila",Surat,Gujarat,395001,India,0
+371,238,"58, Lad Circle",Indore,Madhya Pradesh,452001,India,1
+372,238,"H.No. 24, Balan Zila",Kolkata,West Bengal,700001,India,0
+373,238,"48
+Lall Zila",Chandigarh,Chandigarh,160001,India,0
+374,239,"50/79
+Pillai Street",Kolkata,West Bengal,700001,India,1
+375,240,"13/80, Arora Nagar",Kochi,Kerala,682001,India,1
+376,241,"H.No. 62
+Banik Street",Kochi,Kerala,682001,India,1
+377,242,"654
+Pradhan Zila",Pune,Maharashtra,411001,India,1
+378,243,"380, Biswas Marg",Nagpur,Maharashtra,440001,India,1
+379,243,"H.No. 45
+Shan Zila",Lucknow,Uttar Pradesh,226001,India,0
+380,244,"H.No. 94, Kibe",Chandigarh,Chandigarh,160001,India,1
+381,244,"H.No. 97
+Korpal Ganj",Mumbai,Maharashtra,400001,India,0
+382,245,"H.No. 385
+Nayak Nagar",Lucknow,Uttar Pradesh,226001,India,1
+383,245,"64/138, Saini Ganj",Chandigarh,Chandigarh,160001,India,0
+384,245,"H.No. 241
+Kata Nagar",Patna,Bihar,800001,India,0
+385,246,"19
+Tiwari Zila",Mumbai,Maharashtra,400001,India,1
+386,246,"61/990, De Marg",Surat,Gujarat,395001,India,0
+387,246,"H.No. 45, Narain Marg",Bengaluru,Karnataka,560001,India,0
+388,247,"132
+Chopra",Hyderabad,Telangana,500001,India,1
+389,248,"75, Dara Marg",Mumbai,Maharashtra,400001,India,1
+390,248,"747
+Dar Road",Patna,Bihar,800001,India,0
+391,249,"90/352
+Kothari Zila",Mumbai,Maharashtra,400001,India,1
+392,249,"80
+Lad Road",Pune,Maharashtra,411001,India,0
+393,249,"H.No. 678, Krish Circle",Noida,Uttar Pradesh,201301,India,0
+394,250,"100, De Ganj",Noida,Uttar Pradesh,201301,India,1
+395,251,"19/941
+Bhattacharyya Nagar",Noida,Uttar Pradesh,201301,India,1
+396,251,"72/151, Shenoy Nagar",Mumbai,Maharashtra,400001,India,0
+397,252,"67/066
+Pandya Street",Bhopal,Madhya Pradesh,462001,India,1
+398,253,"H.No. 72
+Korpal Nagar",Delhi,Delhi,110001,India,1
+399,253,"68
+Bhat Chowk",Surat,Gujarat,395001,India,0
+400,254,"638
+Bahl Ganj",Patna,Bihar,800001,India,1
+401,254,"57/875
+Thakkar",Chennai,Tamil Nadu,600001,India,0
+402,255,"059
+Balan Ganj",Bhopal,Madhya Pradesh,462001,India,1
+403,256,"59/32
+Kota Zila",Pune,Maharashtra,411001,India,1
+404,256,"H.No. 80, Rama Ganj",Bhopal,Madhya Pradesh,462001,India,0
+405,257,"955, Bala",Kolkata,West Bengal,700001,India,1
+406,258,"84, Swaminathan Street",Bengaluru,Karnataka,560001,India,1
+407,259,"930, Sridhar Circle",Indore,Madhya Pradesh,452001,India,1
+408,259,"H.No. 93, Oak Street",Delhi,Delhi,110001,India,0
+409,259,"H.No. 00, Dhar Street",Surat,Gujarat,395001,India,0
+410,260,"H.No. 569
+Nayar Zila",Surat,Gujarat,395001,India,1
+411,260,"H.No. 22
+Sur Marg",Kolkata,West Bengal,700001,India,0
+412,260,"895
+Gill Ganj",Chandigarh,Chandigarh,160001,India,0
+413,261,"209
+Bali Marg",Kolkata,West Bengal,700001,India,1
+414,262,"91/725, Khanna Zila",Chennai,Tamil Nadu,600001,India,1
+415,262,"H.No. 21
+Sekhon Path",Kolkata,West Bengal,700001,India,0
+416,262,"H.No. 33, Palla Zila",Chennai,Tamil Nadu,600001,India,0
+417,263,"H.No. 676, Sachdev Street",Kochi,Kerala,682001,India,1
+418,264,"61/79
+Gaba Ganj",Bhopal,Madhya Pradesh,462001,India,1
+419,264,"H.No. 040
+Lal Path",Noida,Uttar Pradesh,201301,India,0
+420,264,"H.No. 526, Borde Street",Kolkata,West Bengal,700001,India,0
+421,265,"06/296
+Bera Street",Jaipur,Rajasthan,302001,India,1
+422,266,"688, Manda Road",Bhopal,Madhya Pradesh,462001,India,1
+423,267,"H.No. 698, Dube Chowk",Jaipur,Rajasthan,302001,India,1
+424,267,"H.No. 06, Menon Zila",Nagpur,Maharashtra,440001,India,0
+425,268,"H.No. 324, Solanki Zila",Nagpur,Maharashtra,440001,India,1
+426,268,"H.No. 67, Lanka Chowk",Bhopal,Madhya Pradesh,462001,India,0
+427,269,"H.No. 65, Sehgal Street",Jaipur,Rajasthan,302001,India,1
+428,270,"43
+Bhatia Road",Patna,Bihar,800001,India,1
+429,271,"58/693, Bhat Circle",Kolkata,West Bengal,700001,India,1
+430,272,"79/37
+Brar Road",Indore,Madhya Pradesh,452001,India,1
+431,272,"08/989
+Din",Mumbai,Maharashtra,400001,India,0
+432,272,"22, Hans Ganj",Chennai,Tamil Nadu,600001,India,0
+433,273,"H.No. 632
+Kuruvilla",Noida,Uttar Pradesh,201301,India,1
+434,273,"11/686
+Nanda Circle",Lucknow,Uttar Pradesh,226001,India,0
+435,274,"H.No. 998
+Chowdhury Marg",Kochi,Kerala,682001,India,1
+436,275,"99/11, Chaudhuri",Noida,Uttar Pradesh,201301,India,1
+437,275,"56/46
+Solanki Chowk",Patna,Bihar,800001,India,0
+438,275,"462, Ratti",Kolkata,West Bengal,700001,India,0
+439,276,"30/745
+Nazareth Nagar",Mumbai,Maharashtra,400001,India,1
+440,277,"13
+Mital Street",Indore,Madhya Pradesh,452001,India,1
+441,278,"69/137
+Ray Ganj",Patna,Bihar,800001,India,1
+442,278,"50/82
+Mukhopadhyay Zila",Delhi,Delhi,110001,India,0
+443,279,"90/23, Bhardwaj Ganj",Bengaluru,Karnataka,560001,India,1
+444,280,"H.No. 534
+Shetty Path",Surat,Gujarat,395001,India,1
+445,281,"03/579, Goel Chowk",Pune,Maharashtra,411001,India,1
+446,282,"414
+Raju Nagar",Surat,Gujarat,395001,India,1
+447,283,"334, Varghese Marg",Noida,Uttar Pradesh,201301,India,1
+448,283,"07/229, Kapur Nagar",Kochi,Kerala,682001,India,0
+449,283,"44/66
+Sharaf Path",Lucknow,Uttar Pradesh,226001,India,0
+450,284,"H.No. 89
+Chaudry Marg",Indore,Madhya Pradesh,452001,India,1
+451,284,"58/99, Misra Road",Chennai,Tamil Nadu,600001,India,0
+452,285,"H.No. 45, Lal Road",Surat,Gujarat,395001,India,1
+453,285,"283
+Raval Nagar",Nagpur,Maharashtra,440001,India,0
+454,286,"74/466, Banik Marg",Hyderabad,Telangana,500001,India,1
+455,286,"H.No. 38, Parmer Chowk",Noida,Uttar Pradesh,201301,India,0
+456,287,"82/417, Kuruvilla Street",Jaipur,Rajasthan,302001,India,1
+457,288,"534, Narula Marg",Pune,Maharashtra,411001,India,1
+458,289,"17
+Bobal Nagar",Kochi,Kerala,682001,India,1
+459,289,"816
+Misra Circle",Mumbai,Maharashtra,400001,India,0
+460,290,"356, Shankar",Pune,Maharashtra,411001,India,1
+461,290,"H.No. 21, Natarajan Chowk",Jaipur,Rajasthan,302001,India,0
+462,291,"H.No. 743, Dutt Street",Noida,Uttar Pradesh,201301,India,1
+463,291,"H.No. 296
+Raval Marg",Ahmedabad,Gujarat,380001,India,0
+464,291,"60
+Walla Nagar",Delhi,Delhi,110001,India,0
+465,292,"H.No. 83, Agrawal Nagar",Patna,Bihar,800001,India,1
+466,292,"542, Rajagopal Zila",Lucknow,Uttar Pradesh,226001,India,0
+467,293,"H.No. 044, Venkatesh Chowk",Lucknow,Uttar Pradesh,226001,India,1
+468,294,"H.No. 75, Gala Ganj",Jaipur,Rajasthan,302001,India,1
+469,294,"H.No. 332
+Bains Ganj",Kolkata,West Bengal,700001,India,0
+470,294,"H.No. 506, Warrior Road",Pune,Maharashtra,411001,India,0
+471,295,"00/167, Dasgupta Marg",Nagpur,Maharashtra,440001,India,1
+472,295,"23
+Mitra Nagar",Nagpur,Maharashtra,440001,India,0
+473,295,"18/499
+Sahota Street",Mumbai,Maharashtra,400001,India,0
+474,296,"H.No. 11, Issac Chowk",Chennai,Tamil Nadu,600001,India,1
+475,296,"H.No. 83, Rout Path",Bhopal,Madhya Pradesh,462001,India,0
+476,297,"73/75, Agate Ganj",Kochi,Kerala,682001,India,1
+477,297,"11/972, Vaidya Zila",Mumbai,Maharashtra,400001,India,0
+478,298,"37/447
+Chaudhry Nagar",Lucknow,Uttar Pradesh,226001,India,1
+479,299,"H.No. 56
+Chandran Zila",Pune,Maharashtra,411001,India,1
+480,300,"25/579, Chander Road",Indore,Madhya Pradesh,452001,India,1
+481,301,"H.No. 667, Rajan Road",Jaipur,Rajasthan,302001,India,1
+482,302,"H.No. 202, Saha Zila",Patna,Bihar,800001,India,1
+483,302,"72/96
+Balakrishnan Path",Kolkata,West Bengal,700001,India,0
+484,302,"71, Sastry Marg",Chandigarh,Chandigarh,160001,India,0
+485,303,"50/899
+Nigam Ganj",Noida,Uttar Pradesh,201301,India,1
+486,304,"37, Rajan Path",Mumbai,Maharashtra,400001,India,1
+487,304,"90/02, Singh Circle",Ahmedabad,Gujarat,380001,India,0
+488,304,"175
+Narayanan Ganj",Kochi,Kerala,682001,India,0
+489,305,"66/31, Sawhney Chowk",Indore,Madhya Pradesh,452001,India,1
+490,306,"51
+Badami Chowk",Surat,Gujarat,395001,India,1
+491,307,"H.No. 880
+Modi Zila",Indore,Madhya Pradesh,452001,India,1
+492,308,"H.No. 50
+Sha Ganj",Delhi,Delhi,110001,India,1
+493,309,"71/130
+Pant Path",Nagpur,Maharashtra,440001,India,1
+494,310,"10/272
+Chhabra Marg",Lucknow,Uttar Pradesh,226001,India,1
+495,311,"H.No. 637, Nigam Ganj",Lucknow,Uttar Pradesh,226001,India,1
+496,312,"91/779, Desai Circle",Chennai,Tamil Nadu,600001,India,1
+497,312,"H.No. 808
+Subramanian Marg",Pune,Maharashtra,411001,India,0
+498,313,"21/699, Thaman Path",Chandigarh,Chandigarh,160001,India,1
+499,313,"93
+Rao Road",Surat,Gujarat,395001,India,0
+500,314,"269
+Mistry Circle",Mumbai,Maharashtra,400001,India,1
+501,315,"945, Gokhale Street",Lucknow,Uttar Pradesh,226001,India,1
+502,316,"H.No. 87, Sahni",Surat,Gujarat,395001,India,1
+503,317,"10/62, Bhalla Nagar",Noida,Uttar Pradesh,201301,India,1
+504,317,"H.No. 24, Dhingra Road",Jaipur,Rajasthan,302001,India,0
+505,317,"43/805, Chaudry Chowk",Noida,Uttar Pradesh,201301,India,0
+506,318,"40/66, Munshi Marg",Pune,Maharashtra,411001,India,1
+507,319,"973
+Hegde Path",Patna,Bihar,800001,India,1
+508,320,"122
+Dar Circle",Bengaluru,Karnataka,560001,India,1
+509,320,"H.No. 648
+De Road",Ahmedabad,Gujarat,380001,India,0
+510,320,"40/57, Baral Street",Chennai,Tamil Nadu,600001,India,0
+511,321,"94/798, Bora Path",Jaipur,Rajasthan,302001,India,1
+512,322,"818, Sagar Street",Bengaluru,Karnataka,560001,India,1
+513,322,"H.No. 533
+Narula Path",Pune,Maharashtra,411001,India,0
+514,323,"87/80, Pal Zila",Lucknow,Uttar Pradesh,226001,India,1
+515,323,"993
+Nagi Nagar",Ahmedabad,Gujarat,380001,India,0
+516,324,"H.No. 84
+Varughese Nagar",Hyderabad,Telangana,500001,India,1
+517,325,"04
+Nagi Ganj",Lucknow,Uttar Pradesh,226001,India,1
+518,326,"880, Kade Zila",Chennai,Tamil Nadu,600001,India,1
+519,327,"861, Bajwa Street",Mumbai,Maharashtra,400001,India,1
+520,327,"50/110
+Krishnamurthy Street",Bengaluru,Karnataka,560001,India,0
+521,327,"34/66, Ravel Chowk",Chandigarh,Chandigarh,160001,India,0
+522,328,"18, Bhatnagar Nagar",Chandigarh,Chandigarh,160001,India,1
+523,328,"15/814, Chadha Road",Kolkata,West Bengal,700001,India,0
+524,329,"07
+Walla Street",Bhopal,Madhya Pradesh,462001,India,1
+525,329,"684, Misra Street",Indore,Madhya Pradesh,452001,India,0
+526,330,"H.No. 009, Ramesh",Patna,Bihar,800001,India,1
+527,331,"53/682, Gour Street",Chennai,Tamil Nadu,600001,India,1
+528,331,"43/12, Bhagat",Delhi,Delhi,110001,India,0
+529,332,"14/139
+Narayanan Chowk",Bengaluru,Karnataka,560001,India,1
+530,332,"314
+Boase",Bhopal,Madhya Pradesh,462001,India,0
+531,333,"59
+Dua Road",Bhopal,Madhya Pradesh,462001,India,1
+532,333,"H.No. 62
+Munshi Nagar",Nagpur,Maharashtra,440001,India,0
+533,333,"645, Narula Street",Hyderabad,Telangana,500001,India,0
+534,334,"H.No. 47
+Chopra Circle",Ahmedabad,Gujarat,380001,India,1
+535,334,"91/428, Lall Ganj",Indore,Madhya Pradesh,452001,India,0
+536,335,"09/96, Kala",Lucknow,Uttar Pradesh,226001,India,1
+537,335,"48/87, Pau Street",Lucknow,Uttar Pradesh,226001,India,0
+538,335,"942
+Thaker Chowk",Bhopal,Madhya Pradesh,462001,India,0
+539,336,"H.No. 80
+Gandhi Ganj",Nagpur,Maharashtra,440001,India,1
+540,337,"299
+Sule Street",Bhopal,Madhya Pradesh,462001,India,1
+541,337,"H.No. 373
+Lalla Zila",Kolkata,West Bengal,700001,India,0
+542,338,"38/567, Batra Chowk",Chennai,Tamil Nadu,600001,India,1
+543,338,"51/844, Ghosh",Surat,Gujarat,395001,India,0
+544,339,"18/46
+Varty Ganj",Bengaluru,Karnataka,560001,India,1
+545,339,"H.No. 57
+Ahuja Chowk",Lucknow,Uttar Pradesh,226001,India,0
+546,339,"23, Varkey Zila",Patna,Bihar,800001,India,0
+547,340,"259, Karpe Zila",Patna,Bihar,800001,India,1
+548,341,"77, Edwin Ganj",Kochi,Kerala,682001,India,1
+549,341,"H.No. 302
+Dyal",Hyderabad,Telangana,500001,India,0
+550,342,"20/24, Varughese Street",Kolkata,West Bengal,700001,India,1
+551,342,"90/41
+Sen Ganj",Nagpur,Maharashtra,440001,India,0
+552,343,"692, Gopal",Pune,Maharashtra,411001,India,1
+553,344,"57/991, Radhakrishnan Ganj",Kochi,Kerala,682001,India,1
+554,344,"103
+Thaman Circle",Kochi,Kerala,682001,India,0
+555,345,"799, Wali Nagar",Hyderabad,Telangana,500001,India,1
+556,345,"H.No. 729, Agarwal Circle",Kolkata,West Bengal,700001,India,0
+557,346,"H.No. 08
+Karnik Marg",Nagpur,Maharashtra,440001,India,1
+558,347,"91/62
+Sood Road",Bhopal,Madhya Pradesh,462001,India,1
+559,347,"H.No. 498, Kurian Marg",Lucknow,Uttar Pradesh,226001,India,0
+560,348,"81/80, Jha Marg",Kolkata,West Bengal,700001,India,1
+561,348,"51
+Sandhu Street",Noida,Uttar Pradesh,201301,India,0
+562,349,"59/46
+Sachdev Ganj",Bengaluru,Karnataka,560001,India,1
+563,349,"588
+Kulkarni Chowk",Chandigarh,Chandigarh,160001,India,0
+564,350,"21/372
+Kala Zila",Mumbai,Maharashtra,400001,India,1
+565,350,"H.No. 89
+Dyal Nagar",Delhi,Delhi,110001,India,0
+566,350,"01/279
+Chakrabarti Marg",Pune,Maharashtra,411001,India,0
+567,351,"H.No. 19, Rajagopalan Nagar",Jaipur,Rajasthan,302001,India,1
+568,351,"84/90
+Talwar Street",Chennai,Tamil Nadu,600001,India,0
+569,352,"84/309, Varty Circle",Patna,Bihar,800001,India,1
+570,352,"20/53, Dugar Nagar",Noida,Uttar Pradesh,201301,India,0
+571,353,"H.No. 66
+Iyer",Bhopal,Madhya Pradesh,462001,India,1
+572,353,"11/848, Pall",Pune,Maharashtra,411001,India,0
+573,354,"37/69, Lal Nagar",Noida,Uttar Pradesh,201301,India,1
+574,355,"18/45, Varghese Zila",Kochi,Kerala,682001,India,1
+575,356,"76/973
+Shanker Path",Jaipur,Rajasthan,302001,India,1
+576,357,"H.No. 416
+Karpe Ganj",Chennai,Tamil Nadu,600001,India,1
+577,357,"58
+Andra Circle",Noida,Uttar Pradesh,201301,India,0
+578,358,"H.No. 651
+Gokhale Circle",Mumbai,Maharashtra,400001,India,1
+579,358,"H.No. 53
+Luthra",Jaipur,Rajasthan,302001,India,0
+580,359,"33/343
+Jain Ganj",Bengaluru,Karnataka,560001,India,1
+581,360,"H.No. 117, Ahuja",Kochi,Kerala,682001,India,1
+582,361,"57/94
+Goswami Chowk",Lucknow,Uttar Pradesh,226001,India,1
+583,361,"39
+Bhagat Street",Chandigarh,Chandigarh,160001,India,0
+584,362,"56/27, Vasa Zila",Patna,Bihar,800001,India,1
+585,362,"H.No. 00
+Raghavan Ganj",Pune,Maharashtra,411001,India,0
+586,363,"42/84
+Luthra Ganj",Chennai,Tamil Nadu,600001,India,1
+587,363,"55/27
+Kade Marg",Pune,Maharashtra,411001,India,0
+588,364,"47
+Deep Street",Kochi,Kerala,682001,India,1
+589,365,"866
+Dhingra Ganj",Chennai,Tamil Nadu,600001,India,1
+590,365,"02, Tata Marg",Chennai,Tamil Nadu,600001,India,0
+591,365,"88/574, Batta Road",Jaipur,Rajasthan,302001,India,0
+592,366,"H.No. 347, Sengupta Zila",Chennai,Tamil Nadu,600001,India,1
+593,367,"H.No. 88
+Padmanabhan Road",Kochi,Kerala,682001,India,1
+594,367,"15, Issac",Chennai,Tamil Nadu,600001,India,0
+595,367,"H.No. 55, Sura Circle",Delhi,Delhi,110001,India,0
+596,368,"47/22
+Sama Path",Bhopal,Madhya Pradesh,462001,India,1
+597,368,"H.No. 125
+Murthy Ganj",Kochi,Kerala,682001,India,0
+598,369,"64/75
+Verma",Surat,Gujarat,395001,India,1
+599,369,"22
+Dass Nagar",Kochi,Kerala,682001,India,0
+600,370,"261, Bhatt Zila",Indore,Madhya Pradesh,452001,India,1
+601,370,"00/68
+Chawla Zila",Hyderabad,Telangana,500001,India,0
+602,371,"64/334, Date Chowk",Jaipur,Rajasthan,302001,India,1
+603,371,"20/05, Soni Path",Nagpur,Maharashtra,440001,India,0
+604,372,"72/82
+Shan",Surat,Gujarat,395001,India,1
+605,372,"84/57
+Karan Circle",Ahmedabad,Gujarat,380001,India,0
+606,372,"45, Lad Marg",Kochi,Kerala,682001,India,0
+607,373,"H.No. 825, Singh Road",Mumbai,Maharashtra,400001,India,1
+608,374,"H.No. 06
+Kashyap Road",Indore,Madhya Pradesh,452001,India,1
+609,374,"53/68, Rana Marg",Bengaluru,Karnataka,560001,India,0
+610,375,"34
+Sami Zila",Delhi,Delhi,110001,India,1
+611,375,"94/48, Sachar Road",Chennai,Tamil Nadu,600001,India,0
+612,375,"H.No. 224, Shah Zila",Surat,Gujarat,395001,India,0
+613,376,"502
+Warrior Nagar",Surat,Gujarat,395001,India,1
+614,376,"144, Sarma Street",Delhi,Delhi,110001,India,0
+615,377,"073, Salvi Path",Hyderabad,Telangana,500001,India,1
+616,378,"05
+Dhingra Zila",Delhi,Delhi,110001,India,1
+617,378,"H.No. 61, Singhal Circle",Patna,Bihar,800001,India,0
+618,378,"460, Kothari Zila",Noida,Uttar Pradesh,201301,India,0
+619,379,"03/718, Solanki Ganj",Patna,Bihar,800001,India,1
+620,380,"088
+Kulkarni Zila",Bhopal,Madhya Pradesh,462001,India,1
+621,380,"43/503
+Keer Zila",Surat,Gujarat,395001,India,0
+622,381,"491, Kibe Marg",Lucknow,Uttar Pradesh,226001,India,1
+623,381,"H.No. 979, Prabhu Street",Kochi,Kerala,682001,India,0
+624,381,"271, Nigam",Indore,Madhya Pradesh,452001,India,0
+625,382,"28/127
+Nadig Ganj",Kolkata,West Bengal,700001,India,1
+626,383,"H.No. 652, Baral Road",Noida,Uttar Pradesh,201301,India,1
+627,383,"78/487
+Grover Ganj",Ahmedabad,Gujarat,380001,India,0
+628,384,"H.No. 98
+Biswas Street",Kolkata,West Bengal,700001,India,1
+629,384,"44, Peri Circle",Mumbai,Maharashtra,400001,India,0
+630,385,"20/959
+Nagi Ganj",Jaipur,Rajasthan,302001,India,1
+631,385,"86/387, Dube Circle",Noida,Uttar Pradesh,201301,India,0
+632,385,"H.No. 65
+Char Zila",Nagpur,Maharashtra,440001,India,0
+633,386,"031, Handa Chowk",Delhi,Delhi,110001,India,1
+634,386,"H.No. 967, Kunda Circle",Ahmedabad,Gujarat,380001,India,0
+635,387,"10/37, Sidhu Zila",Ahmedabad,Gujarat,380001,India,1
+636,387,"H.No. 86, Bhardwaj Path",Ahmedabad,Gujarat,380001,India,0
+637,388,"14/138, Chaudhuri Zila",Bengaluru,Karnataka,560001,India,1
+638,388,"63/38, Gola Ganj",Kolkata,West Bengal,700001,India,0
+639,388,"19/576
+Ganesan Zila",Chennai,Tamil Nadu,600001,India,0
+640,389,"28/975
+Nair Path",Kolkata,West Bengal,700001,India,1
+641,390,"59/398
+Prashad Ganj",Nagpur,Maharashtra,440001,India,1
+642,391,"60
+Mane Nagar",Lucknow,Uttar Pradesh,226001,India,1
+643,392,"H.No. 04, Kala Ganj",Chennai,Tamil Nadu,600001,India,1
+644,392,"H.No. 488
+Dubey Circle",Nagpur,Maharashtra,440001,India,0
+645,393,"H.No. 22
+Peri Road",Hyderabad,Telangana,500001,India,1
+646,393,"441, Ratta",Bhopal,Madhya Pradesh,462001,India,0
+647,394,"27
+Chandran",Pune,Maharashtra,411001,India,1
+648,395,"H.No. 055
+Saha Marg",Ahmedabad,Gujarat,380001,India,1
+649,396,"60/480, Zacharia Path",Kolkata,West Bengal,700001,India,1
+650,397,"067, Thaman",Noida,Uttar Pradesh,201301,India,1
+651,397,"646, Deo Street",Nagpur,Maharashtra,440001,India,0
+652,398,"08/64
+Rastogi Zila",Chandigarh,Chandigarh,160001,India,1
+653,399,"783, Rana Chowk",Nagpur,Maharashtra,440001,India,1
+654,399,"98/33, Lata Zila",Ahmedabad,Gujarat,380001,India,0
+655,400,"H.No. 665, Halder Path",Jaipur,Rajasthan,302001,India,1
+656,400,"H.No. 90
+Gara Road",Noida,Uttar Pradesh,201301,India,0
+657,401,"03, Prakash Ganj",Lucknow,Uttar Pradesh,226001,India,1
+658,401,"11/039, Mani Street",Surat,Gujarat,395001,India,0
+659,402,"H.No. 77, Narula Nagar",Patna,Bihar,800001,India,1
+660,403,"884, Subramanian Circle",Ahmedabad,Gujarat,380001,India,1
+661,403,"06/980, Garde Road",Lucknow,Uttar Pradesh,226001,India,0
+662,404,"94/070, Rama Zila",Ahmedabad,Gujarat,380001,India,1
+663,405,"H.No. 463, Trivedi Marg",Bhopal,Madhya Pradesh,462001,India,1
+664,405,"H.No. 79, Chakrabarti Circle",Hyderabad,Telangana,500001,India,0
+665,406,"00/38
+Nath Road",Pune,Maharashtra,411001,India,1
+666,406,"20
+Pandey Path",Surat,Gujarat,395001,India,0
+667,407,"40/46, Mammen Nagar",Kolkata,West Bengal,700001,India,1
+668,407,"562, Raja Zila",Lucknow,Uttar Pradesh,226001,India,0
+669,407,"39, Sandhu Street",Patna,Bihar,800001,India,0
+670,408,"23/29
+Jain Circle",Delhi,Delhi,110001,India,1
+671,409,"29, Nadkarni Street",Surat,Gujarat,395001,India,1
+672,410,"520, Sachdev Path",Indore,Madhya Pradesh,452001,India,1
+673,410,"H.No. 74
+Guha Street",Hyderabad,Telangana,500001,India,0
+674,411,"H.No. 994, Kashyap",Pune,Maharashtra,411001,India,1
+675,412,"H.No. 17, Thakkar Street",Delhi,Delhi,110001,India,1
+676,412,"52/677
+Gade Street",Mumbai,Maharashtra,400001,India,0
+677,413,"04, Kapadia Marg",Bengaluru,Karnataka,560001,India,1
+678,414,"797, Shankar Path",Chennai,Tamil Nadu,600001,India,1
+679,415,"H.No. 965
+Yadav Marg",Kolkata,West Bengal,700001,India,1
+680,415,"17/70, Venkataraman Ganj",Bengaluru,Karnataka,560001,India,0
+681,415,"08/680
+Manne Ganj",Kolkata,West Bengal,700001,India,0
+682,416,"H.No. 72
+Menon Marg",Delhi,Delhi,110001,India,1
+683,416,"82/771, Chowdhury Circle",Bhopal,Madhya Pradesh,462001,India,0
+684,417,"57
+Gola Nagar",Lucknow,Uttar Pradesh,226001,India,1
+685,417,"37/14
+Gade Path",Ahmedabad,Gujarat,380001,India,0
+686,417,"H.No. 175, Viswanathan Zila",Kolkata,West Bengal,700001,India,0
+687,418,"86, Garde Nagar",Mumbai,Maharashtra,400001,India,1
+688,419,"206, More Road",Mumbai,Maharashtra,400001,India,1
+689,420,"H.No. 230, Kulkarni",Bhopal,Madhya Pradesh,462001,India,1
+690,421,"80
+Tak",Chandigarh,Chandigarh,160001,India,1
+691,422,"67
+Ahuja Zila",Bengaluru,Karnataka,560001,India,1
+692,422,"49/83, Goyal Nagar",Chennai,Tamil Nadu,600001,India,0
+693,423,"H.No. 209
+Misra",Bengaluru,Karnataka,560001,India,1
+694,424,"H.No. 622, Goel Road",Mumbai,Maharashtra,400001,India,1
+695,425,"H.No. 455, Bir Marg",Ahmedabad,Gujarat,380001,India,1
+696,425,"14/72
+Maharaj Zila",Bhopal,Madhya Pradesh,462001,India,0
+697,426,"33/90
+Wadhwa Zila",Jaipur,Rajasthan,302001,India,1
+698,427,"95
+Vora Road",Ahmedabad,Gujarat,380001,India,1
+699,427,"997
+Tank Circle",Chennai,Tamil Nadu,600001,India,0
+700,428,"43/010, Dalal Chowk",Jaipur,Rajasthan,302001,India,1
+701,428,"66/05, Kala Path",Surat,Gujarat,395001,India,0
+702,429,"H.No. 14
+Toor Road",Kochi,Kerala,682001,India,1
+703,429,"H.No. 155
+Balakrishnan Marg",Chandigarh,Chandigarh,160001,India,0
+704,430,"H.No. 77
+Deshpande Nagar",Hyderabad,Telangana,500001,India,1
+705,430,"785
+Sachdev Chowk",Jaipur,Rajasthan,302001,India,0
+706,431,"58/80
+Narula Ganj",Bengaluru,Karnataka,560001,India,1
+707,431,"H.No. 240
+Prashad Path",Patna,Bihar,800001,India,0
+708,432,"14/50, Sachdev Road",Noida,Uttar Pradesh,201301,India,1
+709,432,"35, Mittal Chowk",Chandigarh,Chandigarh,160001,India,0
+710,432,"42/15, Jaggi Nagar",Mumbai,Maharashtra,400001,India,0
+711,433,"82, Oak Ganj",Indore,Madhya Pradesh,452001,India,1
+712,434,"H.No. 21
+Deo Circle",Bhopal,Madhya Pradesh,462001,India,1
+713,435,"81
+Mukhopadhyay Nagar",Pune,Maharashtra,411001,India,1
+714,435,"91/570, Verma Zila",Kolkata,West Bengal,700001,India,0
+715,435,"H.No. 943
+Iyer Path",Patna,Bihar,800001,India,0
+716,436,"57/14
+Dugar Street",Pune,Maharashtra,411001,India,1
+717,436,"H.No. 098
+Chaudry Circle",Noida,Uttar Pradesh,201301,India,0
+718,436,"58/54, Mander Street",Chandigarh,Chandigarh,160001,India,0
+719,437,"H.No. 95, Sawhney Circle",Indore,Madhya Pradesh,452001,India,1
+720,437,"070, Rajagopal Zila",Nagpur,Maharashtra,440001,India,0
+721,437,"H.No. 662, Sehgal",Delhi,Delhi,110001,India,0
+722,438,"817
+Deep",Pune,Maharashtra,411001,India,1
+723,438,"71/747, Kata Chowk",Chennai,Tamil Nadu,600001,India,0
+724,438,"945, Goswami Marg",Mumbai,Maharashtra,400001,India,0
+725,439,"01
+Chowdhury Chowk",Hyderabad,Telangana,500001,India,1
+726,439,"72
+Pall Road",Nagpur,Maharashtra,440001,India,0
+727,439,"16/15, Bobal Circle",Chandigarh,Chandigarh,160001,India,0
+728,440,"96
+Kohli Ganj",Noida,Uttar Pradesh,201301,India,1
+729,440,"61, Joshi Path",Nagpur,Maharashtra,440001,India,0
+730,440,"95
+Keer Circle",Patna,Bihar,800001,India,0
+731,441,"H.No. 997
+Chatterjee Path",Mumbai,Maharashtra,400001,India,1
+732,442,"19
+Raghavan Zila",Mumbai,Maharashtra,400001,India,1
+733,443,"H.No. 329, Din Nagar",Surat,Gujarat,395001,India,1
+734,444,"99
+Hayre Chowk",Chennai,Tamil Nadu,600001,India,1
+735,444,"54/946, Chakraborty Path",Hyderabad,Telangana,500001,India,0
+736,445,"405
+Bera Circle",Chennai,Tamil Nadu,600001,India,1
+737,445,"85/140, Sankaran Ganj",Nagpur,Maharashtra,440001,India,0
+738,445,"56/666
+Kakar Circle",Jaipur,Rajasthan,302001,India,0
+739,446,"865, Dube Marg",Hyderabad,Telangana,500001,India,1
+740,447,"H.No. 102, Sarkar Chowk",Jaipur,Rajasthan,302001,India,1
+741,448,"67/969, Sha Street",Noida,Uttar Pradesh,201301,India,1
+742,449,"53
+Samra Street",Kolkata,West Bengal,700001,India,1
+743,449,"73/84, Peri Marg",Delhi,Delhi,110001,India,0
+744,450,"51/971
+Vyas Street",Nagpur,Maharashtra,440001,India,1
+745,451,"91/37, Zacharia Zila",Delhi,Delhi,110001,India,1
+746,452,"07/78
+Narula Chowk",Lucknow,Uttar Pradesh,226001,India,1
+747,452,"H.No. 44
+Banik Street",Chandigarh,Chandigarh,160001,India,0
+748,453,"79/290, Bala Road",Patna,Bihar,800001,India,1
+749,453,"12
+Bose Circle",Chennai,Tamil Nadu,600001,India,0
+750,453,"H.No. 29
+Maharaj Road",Lucknow,Uttar Pradesh,226001,India,0
+751,454,"29/27, Gill Path",Kolkata,West Bengal,700001,India,1
+752,455,"805
+Dhillon Zila",Ahmedabad,Gujarat,380001,India,1
+753,456,"37
+Kade Street",Indore,Madhya Pradesh,452001,India,1
+754,457,"H.No. 027
+Soni Marg",Hyderabad,Telangana,500001,India,1
+755,457,"83
+Ramakrishnan Marg",Mumbai,Maharashtra,400001,India,0
+756,458,"60/47, Mutti Marg",Chandigarh,Chandigarh,160001,India,1
+757,458,"H.No. 856, Mahajan",Kolkata,West Bengal,700001,India,0
+758,458,"H.No. 41
+Raman Road",Jaipur,Rajasthan,302001,India,0
+759,459,"52/58, Anand Nagar",Jaipur,Rajasthan,302001,India,1
+760,460,"H.No. 817
+Kanda Path",Noida,Uttar Pradesh,201301,India,1
+761,460,"H.No. 30
+Chanda Nagar",Kochi,Kerala,682001,India,0
+762,460,"39/11, De Zila",Nagpur,Maharashtra,440001,India,0
+763,461,"24/471, Malhotra Chowk",Chennai,Tamil Nadu,600001,India,1
+764,462,"140
+Rama Marg",Bhopal,Madhya Pradesh,462001,India,1
+765,462,"H.No. 442
+Boase Chowk",Kochi,Kerala,682001,India,0
+766,463,"712
+Sankar Circle",Mumbai,Maharashtra,400001,India,1
+767,463,"17/41, Bora Nagar",Kolkata,West Bengal,700001,India,0
+768,464,"H.No. 720
+Ramakrishnan Nagar",Delhi,Delhi,110001,India,1
+769,464,"569
+Varma Nagar",Noida,Uttar Pradesh,201301,India,0
+770,465,"18
+Aggarwal Ganj",Patna,Bihar,800001,India,1
+771,466,"85/54, Bhakta Marg",Surat,Gujarat,395001,India,1
+772,467,"H.No. 743
+Baral Street",Patna,Bihar,800001,India,1
+773,468,"61/571
+Gupta Chowk",Pune,Maharashtra,411001,India,1
+774,468,"H.No. 309, Suresh Ganj",Ahmedabad,Gujarat,380001,India,0
+775,469,"87
+Bansal Nagar",Chennai,Tamil Nadu,600001,India,1
+776,470,"06/138
+Yadav Chowk",Kolkata,West Bengal,700001,India,1
+777,470,"93/102, Bahl Chowk",Kolkata,West Bengal,700001,India,0
+778,471,"20/204, Shan Zila",Indore,Madhya Pradesh,452001,India,1
+779,472,"H.No. 799, Bhatnagar Ganj",Ahmedabad,Gujarat,380001,India,1
+780,472,"56, Dara Path",Lucknow,Uttar Pradesh,226001,India,0
+781,473,"H.No. 925, Dara Zila",Bengaluru,Karnataka,560001,India,1
+782,474,"582
+Kohli Chowk",Kolkata,West Bengal,700001,India,1
+783,474,"196, Babu Street",Kolkata,West Bengal,700001,India,0
+784,475,"H.No. 219, Saha Road",Surat,Gujarat,395001,India,1
+785,475,"23/248
+Sabharwal Chowk",Bengaluru,Karnataka,560001,India,0
+786,476,"27/91, Pall Road",Bhopal,Madhya Pradesh,462001,India,1
+787,476,"H.No. 833
+Wagle Zila",Lucknow,Uttar Pradesh,226001,India,0
+788,476,"58/83, Joshi Chowk",Kochi,Kerala,682001,India,0
+789,477,"H.No. 277, Dutta Street",Hyderabad,Telangana,500001,India,1
+790,478,"H.No. 36
+Natt Road",Hyderabad,Telangana,500001,India,1
+791,479,"08/220, Varma Chowk",Kochi,Kerala,682001,India,1
+792,479,"H.No. 379, Nanda",Pune,Maharashtra,411001,India,0
+793,479,"531
+Kari Path",Chandigarh,Chandigarh,160001,India,0
+794,480,"631
+Sundaram Chowk",Nagpur,Maharashtra,440001,India,1
+795,480,"23, Sha",Mumbai,Maharashtra,400001,India,0
+796,481,"735
+Jain Road",Bhopal,Madhya Pradesh,462001,India,1
+797,482,"90/421, Shanker Chowk",Chennai,Tamil Nadu,600001,India,1
+798,483,"492
+Garde",Indore,Madhya Pradesh,452001,India,1
+799,483,"H.No. 687, Solanki Ganj",Ahmedabad,Gujarat,380001,India,0
+800,483,"H.No. 06
+Kota Ganj",Pune,Maharashtra,411001,India,0
+801,484,"29/06, Baria Nagar",Mumbai,Maharashtra,400001,India,1
+802,485,"86, Chaudhari Chowk",Bhopal,Madhya Pradesh,462001,India,1
+803,486,"H.No. 806, Deo Ganj",Lucknow,Uttar Pradesh,226001,India,1
+804,487,"10/742, Bajwa Chowk",Kolkata,West Bengal,700001,India,1
+805,487,"26
+Prabhakar Street",Kolkata,West Bengal,700001,India,0
+806,488,"58, Minhas Nagar",Delhi,Delhi,110001,India,1
+807,489,"19/508, Behl Path",Pune,Maharashtra,411001,India,1
+808,489,"57, Baria",Nagpur,Maharashtra,440001,India,0
+809,490,"81/832, Khare Path",Jaipur,Rajasthan,302001,India,1
+810,491,"35/548, Malhotra Marg",Hyderabad,Telangana,500001,India,1
+811,491,"H.No. 557, Thaker Chowk",Hyderabad,Telangana,500001,India,0
+812,491,"88, Seth Road",Lucknow,Uttar Pradesh,226001,India,0
+813,492,"11, Gola Marg",Chennai,Tamil Nadu,600001,India,1
+814,493,"412, Dora Chowk",Mumbai,Maharashtra,400001,India,1
+815,493,"04/68, Som Street",Mumbai,Maharashtra,400001,India,0
+816,494,"04/310
+Venkatesh Ganj",Kochi,Kerala,682001,India,1
+817,495,"57/988
+Shankar Chowk",Bengaluru,Karnataka,560001,India,1
+818,495,"24/24
+Sule Ganj",Bhopal,Madhya Pradesh,462001,India,0
+819,496,"547, Dyal Street",Patna,Bihar,800001,India,1
+820,497,"22/310, Date Path",Kochi,Kerala,682001,India,1
+821,497,"H.No. 52
+Banerjee Ganj",Pune,Maharashtra,411001,India,0
+822,497,"H.No. 25
+Zacharia Chowk",Chennai,Tamil Nadu,600001,India,0
+823,498,"H.No. 067
+Shanker Street",Delhi,Delhi,110001,India,1
+824,499,"88/547, Din Road",Noida,Uttar Pradesh,201301,India,1
+825,499,"H.No. 17
+Dewan Nagar",Kolkata,West Bengal,700001,India,0
+826,499,"H.No. 06, Kannan",Bhopal,Madhya Pradesh,462001,India,0
+827,500,"H.No. 09, Vyas Ganj",Bhopal,Madhya Pradesh,462001,India,1

@@ -1,0 +1,28 @@
+category_id,category_name,parent_category_id
+1,Electronics,
+2,Clothing,
+3,Home & Kitchen,
+4,Beauty & Personal Care,
+5,Sports & Fitness,
+6,Books & Stationery,
+7,Mobiles,1
+8,Laptops,1
+9,Headphones,1
+10,Smart Watches,1
+11,Cameras,1
+12,Men's Wear,2
+13,Women's Wear,2
+14,Kids Wear,2
+15,Footwear,2
+16,Kitchen Appliances,3
+17,Furniture,3
+18,Home Decor,3
+19,Skincare,4
+20,Haircare,4
+21,Makeup,4
+22,Gym Equipment,5
+23,Outdoor Sports,5
+24,Yoga & Wellness,5
+25,Fiction,6
+26,Academic,6
+27,Office Supplies,6
