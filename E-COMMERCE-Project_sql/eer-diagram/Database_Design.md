@@ -1,5 +1,7 @@
-![eer-diagram](eer-diagram.png)
+![eer-diagram](eer-diagram-image.png)
+
 English
+
 ### 🗄️ Database Architecture & Schema Explanation
 
 This E-commerce database schema is designed for scalability, data integrity, and real-world business logic. The architecture is divided into five core modules:
